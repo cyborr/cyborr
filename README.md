@@ -1,19 +1,26 @@
 - 👋 Hi, I’m @cyborr
-- 👀 I’m interested in Blockchain, New Technologies,Freedom
-- 🌱 I’m currently working on CRYPTOCU INC. Develop blockchain software and making the PESO stablecoin on Stellar Blockchain.
-- 📫 How to reach me (estebansuarez.crypto) 
+- 👀 I’m interested in Blockchain, New Technologies, Freedom
+- 🌱 I’m currently working on CRYPTOCU INC. Develop blockchain software.
+- 📫 How to reach me
      
-     https://recargas.org 
-     
-     https://pesovirtual.org 
+     https://libertad.one
      
      https://cryptocu.org
      
-     twitter: https://twitter.com/cryptocu_crypto
+     https://cubanoticias.info
      
-     facebook: https://facebook.com/recargasorg
+     https://redxcuba.org
+     
+     twitter: https://twitter.com/cryptocu_crypto
+     twitter: https://twitter.com/redxcubaoficial
+     
+     Unstoppable Domains Identity : https://unstoppabledomains.com/d/estebansuarez.dao
+     
+     
  
  Donations: 
+     
+     estebansuarez.dao
      
      estebansuarez.crypto
      
