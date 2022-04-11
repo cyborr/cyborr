@@ -23,7 +23,8 @@
  
  Donations: 
      
-     If you want to support me you can do thru 
+     If you want to support me you can do thru:
+ 
      https://estebansuarez.xyz/donar
      
      
