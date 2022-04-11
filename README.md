@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @cyborr
 - 👀 I’m interested in Blockchain, New Technologies, Freedom
-- 🌱 I’m currently working on CRYPTOCU INC. Develop blockchain software.
+- 🌱 I’m currently working on CRYPTOCU INC. And Esteban Suarez LLC
 - 📫 How to reach me
      
+     
+     https://estebansuarez.com
+
+
      https://libertad.one
      
      https://cryptocu.org
@@ -11,8 +15,7 @@
      
      https://redxcuba.org
      
-     twitter: https://twitter.com/cryptocu_crypto
-     twitter: https://twitter.com/redxcubaoficial
+     twitter: https://twitter.com/EstebanSuarezB
      
      Unstoppable Domains Identity : https://unstoppabledomains.com/d/estebansuarez.dao
      
@@ -20,13 +23,8 @@
  
  Donations: 
      
-     estebansuarez.dao
-     
-     estebansuarez.crypto
-     
-     cryptocu.crypto
-     
-     pesovirtual.crypto
+     If you want to support me you can do thru 
+     https://estebansuarez.xyz/donar
      
      
 All donations are used to develop our project and make more accessible the use of Blockchain to unbanked communities and places where the humans rights are in a deep problems.
